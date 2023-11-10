@@ -1,0 +1,29 @@
+body {
+    text-align: center;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.container {
+    /* border: 1px solid black;
+    width: 50%;
+    height: 50%; */
+    width: 60vh;
+    margin: 100px auto;
+    
+}
+
+h1 {
+    font-family: 'Montserrat', sans-serif;
+    line-height: 1.5;
+    font-size: 3.5rem;
+    font-weight: bold;
+}
+
+h2 {
+    font-size: 50px;
+    
+}
+
+p{
+    font-size: 30px;
+}
