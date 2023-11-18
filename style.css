@@ -11,10 +11,10 @@ body {
     /*
     width: 50%;
     height: 50%; */
-    width: 60vh;
+    width: 60%;
     margin: 50px auto;
     padding: 50px;
-    border-radius:10px;
+    border-radius: 10px;
 }
 
 
@@ -33,7 +33,7 @@ h2 {
 
 p {
     font-size: 2.6rem;
-    font-weight:700;
+    font-weight: 700;
 }
 
 button {
@@ -41,17 +41,26 @@ button {
     padding-top: 10px;
     padding-bottom: 10px;
     color: white;
-    font-weight:bold;
+    font-weight: bold;
     width: 200px;
-    margin: 5px;
+    margin: 10px;
     border-radius: 5px;
-    font-size:1.5rem;
+    font-size: 1.5rem;
 }
 
 #btn {
     background: darkred;
 }
 
-#save-btn{
-    background:darkgreen;
+#save-btn {
+    background: darkgreen;
+}
+
+#clr {
+    margin-top: 15px;
+    background-color: black;
+}
+
+button:hover{
+    color:rgba(255, 255, 255, 0.562);
 }
